@@ -1,0 +1,25 @@
+.title {
+    text-align: right;
+}
+
+html, body {
+    height: 100%;
+    max-height: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.top-container{
+    padding-top: 10%;
+}
+
+.general-container {
+    background-image: url('background.jpg');
+    height: 100%;
+    color: white;
+}
+
+.general-container form,
+.general-container form label {
+    font-weight: 100;
+    color: black;
+}
